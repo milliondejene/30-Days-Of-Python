@@ -1,4 +1,5 @@
 # Exercise 1: Level 1
+
 # Day 2: 30 Days of python programming
 
 # Declare a first name variable and assign a value to it
